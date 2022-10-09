@@ -65,8 +65,8 @@ button {
   border: none;
   color: #aaa;
   cursor: pointer;
-  font-size: 16px;
-  padding: 15px;
+  font-size: 17px;
+  padding: 16px;
 }
 
 button:hover {
@@ -79,15 +79,15 @@ button:focus {
 
 .slider-container .action-buttons button {
   position: absolute;
-  left: 35%;
+  left: 34%;
   top: 51%;
   z-index: 100;
 }
 
 .slider-container .action-buttons .down-button {
   transform: translateX(-100%);
-  border-top-left-radius: 5px;
-  border-bottom-left-radius: 5px;
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
 }
 
 .slider-container .action-buttons .up-button {
