@@ -1,5 +1,4 @@
 # New-Vertical-Slider
-<p align="center">☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷</p>
 
 
 This is a Vertical Slider created using HTML CSS and JS 
@@ -14,5 +13,6 @@ Made with the intention of guiding beginner contributors towards open source, th
 
 ✨Add metamask which comes under the blockchain technology 
 
-<p align="center">☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷</p>
+# Contributor
+[x] [Aadhya Mathur](https://github.com/aadhyamathur)
 
