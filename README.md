@@ -1,5 +1,4 @@
 # New-Vertical-Slider
-<p align="center">☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷</p>
 
 
 This is a Vertical Slider created using HTML CSS and JS 
@@ -14,10 +13,12 @@ Made with the intention of guiding beginner contributors towards open source, th
 
 ✨Add metamask which comes under the blockchain technology 
 
+# Contributor
+-[x] [Aadhya Mathur](https://github.com/aadhyamathur)
+
+
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 [![Setup Automated](https://img.shields.io/badge/setup-automated-blue?logo=gitpod)](https://gitpod.io/from-referrer/)
 
-
 <p align="center">☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷☷</p>
-
