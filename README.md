@@ -14,8 +14,8 @@ Made with the intention of guiding beginner contributors towards open source, th
 ✨Add metamask which comes under the blockchain technology 
 
 # Contributor
--[x] [Aadhya Mathur](https://github.com/aadhyamathur)
-
+- [Aadhya Mathur](https://github.com/aadhyamathur)
+- [Pratham Bhatnagar](https://github.com/pratham-bhatnagar)
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
