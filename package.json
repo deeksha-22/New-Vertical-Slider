@@ -1,0 +1,8 @@
+{
+  "name": "New-Vertical-Slider",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pratham-bhatnagar/New-Vertical-Slider.git",
+  "author": "Pratham Bhatnagar <84272138+pratham-bhatnagar@users.noreply.github.com>",
+  "license": "MIT"
+}
