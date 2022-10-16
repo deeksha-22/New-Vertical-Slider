@@ -14,12 +14,16 @@ downButton.addEventListener("click", () => changeSlide("down"));
 
 const changeSlide = (direction) => {
   const sliderHeight = sliderContainer.clientHeight;
-  if (direction === "up") {
+  const DIRECTION_ENUM = {
+    UP: "up",
+    DOWN: "down",
+  };
+  if (direction === DIRECTION_ENUM.UP) {
     activeSlideIndex++;
     if (activeSlideIndex > slidesLength - 1) {
       activeSlideIndex = 0;
     }
-  } else if (direction === "down") {
+  } else if (direction === DIRECTION_ENUM.DOWN) {
     activeSlideIndex--;
     if (activeSlideIndex < 0) {
       activeSlideIndex = slidesLength - 1;
