@@ -9,7 +9,7 @@ A Basic Project for New Beginners to contribute for the Hacktober Fest.
 
 This is my first commit towards Hacktoberfest 22.
 
-Start your web dev journey from this project.
+Start your web dev journey as well as Ui/Ux journey from here on
 
 ## Images
 ![image](https://user-images.githubusercontent.com/36443577/195140289-904004fe-3425-4439-b241-c2a0f0b84b31.png)
