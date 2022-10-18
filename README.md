@@ -19,6 +19,20 @@ Made with the intention of guiding beginner contributors towards open source, th
 
 ✨ Add metamask which comes under the blockchain technology 
 
+# Contribution Guide
+
+Fork this repository.
+
+Got to your code editor.
+
+Run the live server to see the result of this awsome code.
+
+Make the function inovative.
+
+Make a pull request and add the discription of the changes you have done.
+
+Wait for the maintainer to accept the pull request.
+
 # Contributor
 - [Vedant Utage](https://github.com/vedantutage03)
 - [Aadhya Mathur](https://github.com/aadhyamathur)
