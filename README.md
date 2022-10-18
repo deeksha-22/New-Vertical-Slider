@@ -5,6 +5,8 @@ This is a Vertical Slider created using HTML, CSS and JS
 
 A Basic Project for New Beginners to contribute for the Hacktober Fest.
 
+It is a good way to start with the designing aspect as well as user experience
+
 This is my first commit towards Hacktoberfest 22.
 
 Start your web dev journey from this project.
@@ -37,7 +39,6 @@ Wait for the maintainer to accept the pull request.
 - [Vedant Utage](https://github.com/vedantutage03)
 - [Aadhya Mathur](https://github.com/aadhyamathur)
 - [Pratham Bhatnagar](https://github.com/pratham-bhatnagar)
-- [Ujjawal Jaiswal](https://github.com/Ujjawal0204))
 
 All the very best.
 
