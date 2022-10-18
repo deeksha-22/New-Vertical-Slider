@@ -37,6 +37,7 @@ Wait for the maintainer to accept the pull request.
 - [Vedant Utage](https://github.com/vedantutage03)
 - [Aadhya Mathur](https://github.com/aadhyamathur)
 - [Pratham Bhatnagar](https://github.com/pratham-bhatnagar)
+- [Ujjawal Jaiswal](https://github.com/Ujjawal0204))
 
 All the very best.
 
