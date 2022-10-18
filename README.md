@@ -3,6 +3,8 @@
 
 This is a Vertical Slider created using HTML, CSS and JS 
 
+Good for Ui/Ux as well
+
 A Basic Project for New Beginners to contribute for the Hacktober Fest.
 
 This is my first commit towards Hacktoberfest 22.
