@@ -67,11 +67,11 @@ button {
   color: #aaa;
   cursor: pointer;
   font-size: 17px;
-  padding: 16px;
+  padding: 6px;
 }
 
 button:hover {
-  color: #222;
+  color: wheat;
 }
 
 button:focus {
